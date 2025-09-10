@@ -59,3 +59,7 @@
 </picture>
 
 ###
+
+<p align="left">PT:<br>Estudante de Engenharia de Computação, com 21 anos de idade e no 7º semestre do curso. Atualmente atuando na área de tecnologia como Analista de Redes e de Comunicação de dados com perfil colaborativo, comunicativo, altamente disciplinado, e sempre buscando aprender mais, a fim de encarar novos desafios.<br><br>Conto com habilidades em Desenvolvimento de Software e Análise dados, sendo os principais conhecimentos em: Python, SQL, AWS, Linux, Excel, Spark, C#, C++, R, ShellScript, Airflow, DBT, Databricks, além de outra ferramentas coligadas.<br><br><br>EN:<br>Computer Engineering student, 21 years old and in the 7th semester of thea course. Currently working in the technology area as a Network and Data Communication Analyst with a collaborative, communicative, highly disciplined profile, and always looking to learn more in order to face new challenges.<br><br>I have skills in Software Development and Data Analysis, with main knowledge in: Python, SQL, AWS, Linux, Excel, Spark, C#, C++, R, ShellScript, Airflow, DBT, Databricks, and other related tools.</p>
+
+###
